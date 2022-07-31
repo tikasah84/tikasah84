@@ -38,7 +38,7 @@ I am a self-taught fullstack developer (MERN) stack. I'm currently working at Ey
 
 ## My Github Stats 📊
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tikasah84&count_private=true&theme=react&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tikasaah84&langs_count=5&theme=react)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tikasah84&langs_count=5&theme=react)]()
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tikasah84)](https://github.com/tikasah84/github-contribution-stats/)
 
 <!---
