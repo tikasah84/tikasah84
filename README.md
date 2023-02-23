@@ -1,6 +1,6 @@
 ## Hi, 👋 I’m Tika sah.
 
-I am a self-taught fullstack developer (MERN) stack. I'm currently working at Eydean as backend developer⭐😁.
+I am a self-taught fullstack developer (MERN) . I'm currently working  as backend developer⭐😁.
 
 - 👀 I’m interested in Web Development
 - 👭 I'm looking to collaborate on Full Stack Web Development
